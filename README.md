@@ -1,9 +1,7 @@
 # Supply Chain Excellence Analytics: Brewery Operations Case Study
 
 ## Project purpose
-A portfolio project aligned to the AB InBev Supply Excellence Trainee (SET) internship. It explores manufacturing productivity, downtime, quality, energy intensity, freight cost, and delivery reliability using **synthetic demonstration data**.
-
-**Important:** This is an independent student case study. The data are simulated and are not AB InBev data. Do not present the results as real company findings.
+this project explores manufacturing productivity, downtime, quality, energy intensity, freight cost, and delivery reliability using **synthetic demonstration data**.
 
 ## Business question
 How could a brewery operations team prioritize improvement opportunities across production and logistics while balancing output, quality, cost, and service?
